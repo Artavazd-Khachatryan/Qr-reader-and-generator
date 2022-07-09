@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QR  Code</string>
+    <string name="btn_create">QR GENERATOR</string>
+    <string name="btn_scan">SCANNER</string>
+    <string name="your_text">Your Text</string>
+    <string name="your_url">Your URL</string>
+    <string name="url">Url</string>
+
+    <string-array name="create_list_item">
+        <item>TEXT</item>
+        <item>URL</item>
+        <item>EMAIL</item>
+        <item>PHONE</item>
+        <item>SMS</item>
+        <item>FACEBOOK</item>
+        <item>YOUTUBE</item>
+        <item>WIFI</item>
+        <item>EVENT</item>
+
+    </string-array>
+
+    <string-array name="wifi_encryption">
+        <item>no encryption</item>
+        <item>WEP</item>
+        <item>WPA/WPA2</item>
+    </string-array>
+
+
+    <string name="your_email">Your Email</string>
+    <string name="subject">Subject</string>
+
+    <string name="message">Message</string>
+    <string name="your_phone_number">Your Phone Number</string>
+
+</resources>
